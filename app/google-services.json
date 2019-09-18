@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "257443786937",
+    "firebase_url": "https://we-commerce-7b7f1.firebaseio.com",
+    "project_id": "we-commerce-7b7f1",
+    "storage_bucket": "we-commerce-7b7f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257443786937:android:523c958c27c373affbeb68",
+        "android_client_info": {
+          "package_name": "com.example.uvce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257443786937-u5v08scrn54go2sp7k8ht5dln0vlik2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uvce",
+            "certificate_hash": "ef9fb14e78d77760bdd3d9d1ad346088fceb6ba4"
+          }
+        },
+        {
+          "client_id": "257443786937-96sfrp5qviu97cn3ddklsfp4qhalila0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW-lFV5l4s9FSHFSPVla-OoPAXq_eru7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257443786937-96sfrp5qviu97cn3ddklsfp4qhalila0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
